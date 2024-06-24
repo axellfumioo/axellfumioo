@@ -7,7 +7,7 @@
 
 <p align="center">
   <em>
-    My name is <b>Axel</b>, also known as "axellFumioo." I am a developer skilled in <b>Java, JavaScript, HTML, PHP,
+    My name is <b>Axel Azhar Putra Ananca</b>, also known as "axellFumioo." I am a developer skilled in <b>Java, JavaScript, HTML, PHP,
       CSS, and Python, with a focus on PHP, and Java</b>. I have <b>more than four years</b> of experience in
     programming, starting from 2019, inspired and supported by my father. I am currently a Junior Software Engineering
     student at SMK Telkom Purwokerto.</b>
