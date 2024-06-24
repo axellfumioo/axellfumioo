@@ -24,7 +24,6 @@
   <li>⚡ Fun fact: I enjoy games, especially Minecraft And Valorant</li>
 </ul>
 <br>
----
 
 <details>
   <summary>🤝 Connect with me:</summary>
@@ -109,8 +108,6 @@
         alt="vuejs" width="40" height="40" /></a>
   </p>
 </details>
-
-
 <br>
 
 ---
