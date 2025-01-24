@@ -17,8 +17,8 @@
 
 <h3>A Few Facts About Me 🧑🏻‍💻</h3>
 <ul>
-  <li>🧞 I have been a tech enthusiast since childhood (age 9).</li>
-  <li>🔭 Currently, I am working as a Fullstack Web Developer and Java Developer for Minecraft servers.</li>
+  <li>🧞 I have been a tech enthusiast since childhood (age 11).</li>
+  <li>🔭 Working as a Fullstack Web Developer and Java Developer for Minecraft servers.</li>
   <li>👯 I am seeking collaboration opportunities with Fullstack Web Developers and Minecraft Server Developers.</li>
   <li>💡 Contributing to open-source projects has always been a personal goal.</li>
   <li>⚡ Fun fact: I enjoy games, especially Minecraft And Valorant</li>
