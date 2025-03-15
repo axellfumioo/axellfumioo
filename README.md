@@ -132,5 +132,4 @@
 
 ---
 [![wakatime](https://wakatime.com/badge/user/e1a341f0-d7da-4ef1-b5f2-ebe3e1c2fadd.svg)](https://wakatime.com/@e1a341f0-d7da-4ef1-b5f2-ebe3e1c2fadd)
-[![Discord Presence](https://lanyard.cnrad.dev/api/797072418937765918)](https://discord.com/users/797072418937765918)
 <p align="center">Thank you for visiting my profile!</p>
